@@ -5,6 +5,6 @@ Author: Muthukumar
 1.Profile page code
 2.Chat screen Code
 3.Last seen code
-4.Attachment (Image,Audio)
+4.Attachment (Image,Audio,Video) Code
 5.Hidining the last seen
 
